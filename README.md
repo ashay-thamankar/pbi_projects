@@ -17,4 +17,9 @@ Welcome to my Power BI projects showcase. Explore a variety of reports and data 
 - **Description**: Gain insights into market data with this report. Analyze a glossary dataset to uncover trends and make informed decisions in your market strategy.
 - **Project Link**: [Maven Market Report](https://github.com/ashay-thamankar/power_bi_projects/tree/main/Maven_market_report)
 
+## Apple NetZero Target
+
+- **Description**: Explore Apple's journey towards achieving a net-zero carbon footprint by 2030 through data visualization of their Environmental Progress Reports.
+- **Project Link**: [Apple NetZero Target](https://github.com/ashay-thamankar/power_bi_projects/tree/main/Apple%20Net%20Zero%20Target)
+
 These Power BI projects showcase my data visualization and reporting skills across various domains. Feel free to explore the reports to gain insights and inspiration for your own data analysis endeavors.
