@@ -1,24 +1,34 @@
-# Apple NetZero Target - Power BI Project
+# Apple NetZero Target - Power BI Project 🍏🌍
 
 ## Overview:
-In 2020, after announcing their corporate operations were officially carbon neutral, Apple pledged to make their products carbon neutral by 2030. To achieve this goal, they set their emissions for 2015 (38.4 million metric tons CO2e) as the baseline and will aim to reduce them by 75% by 2030. The remaining 25% of gross emissions (9.6 million metric tons CO2e) will be removed using carbon offsets, bringing the net emissions to 0. 
 
-The objective of this Power BI project is to work as an independent journalist and data visualization enthusiast and use the data provided by Apple in their Environmental Progress Reports to visualize their progress towards becoming carbon neutral in 2030 (estimated as 2032 with a 2-year gap).
+In 2020, Apple announced its commitment to become carbon neutral by 2030, extending beyond their corporate operations to include their products. This Power BI project aims to visualize Apple's progress towards achieving this NetZero Target, utilizing data provided in their Environmental Progress Reports.
 
 ## Key Insights:
-- Apple's greenhouse gas emissions have decreased by 46.3% since 2015, reaching 20.6 million metric tons in 2022.
-- The carbon footprint of the iPhone has decreased since 2017, and it is now only 4% (56kgs CO2e) above the 2015 baseline (54Kgs CO2e). This is a good sign that Apple is on track to achieve its goal of making the iPhone carbon neutral by 2030.
-- There is no significant impact on Apple's revenue generation through their decision to go carbon neutral.
-- Manufacturing is the biggest contributor to Apple's scope 3 emissions, accounting for around 80% (157Mt CO2e) of the top 5 contributors over the past 8 years.
 
-## Conclusion:
-By visualizing Apple's progress towards carbon neutrality, we can better understand the company's efforts to reduce its environmental impact and its chances of achieving its goal by 2030 (estimated as 2032 with a 2-year gap).
+- **Greenhouse Gas Emissions Reduction:** Apple has successfully reduced its greenhouse gas emissions by 46.3% since 2015, reaching 20.6 million metric tons in 2022.
 
-This Power BI project aims to provide a comprehensive view of Apple's journey towards a net-zero carbon footprint, reflecting their commitment to environmental sustainability.
+- **iPhone Carbon Footprint:** The carbon footprint of the iPhone has decreased since 2017, standing only 4% (56kgs CO2e) above the 2015 baseline (54Kgs CO2e), indicating progress towards the goal of making the iPhone carbon neutral by 2030.
 
-Feel free to explore the visualizations and data to gain insights into Apple's efforts and progress.
+- **Impact on Revenue:** There is no significant negative impact on Apple's revenue generation due to their decision to go carbon neutral.
 
+- **Manufacturing Contribution:** Manufacturing remains the largest contributor to Apple's scope 3 emissions, constituting approximately 80% (157Mt CO2e) of the top 5 contributors over the past 8 years.
 
----
+## Report Visuals 📊:
 
-[Link to the Power BI Project](https://github.com/ashay-thamankar/Apple_NetZero_Target)
+Explore the Apple NetZero Target Power BI Report with the following visuals:
+
+- ![Page 1](https://github.com/ashay-thamankar/power_bi_projects/blob/main/Apple%20Net%20Zero%20Target/report%20visuals/Apple_Emission_Challenge_Report_by_Ashay_page-1.jpg)
+- ![Page 2](https://github.com/ashay-thamankar/power_bi_projects/blob/main/Apple%20Net%20Zero%20Target/report%20visuals/Apple_Emission_Challenge_Report_by_Ashay_page-2.jpg)
+- ![Page 3](https://github.com/ashay-thamankar/power_bi_projects/blob/main/Apple%20Net%20Zero%20Target/report%20visuals/Apple_Emission_Challenge_Report_by_Ashay_page-3.jpg)
+- ![Page 4](https://github.com/ashay-thamankar/power_bi_projects/blob/main/Apple%20Net%20Zero%20Target/report%20visuals/Apple_Emission_Challenge_Report_by_Ashay_page-4.jpg)
+
+## Conclusion 🎉:
+
+By visualizing Apple's progress towards carbon neutrality, this project provides valuable insights into the company's efforts to reduce its environmental impact. The commitment to achieving a net-zero carbon footprint by 2030 (estimated as 2032 with a 2-year gap) is reflected in the data and visualizations.
+
+Feel free to explore the visualizations and data to gain deeper insights into Apple's journey towards a sustainable and environmentally friendly future.
+
+For more details on the project, please refer to the [GitHub repository](https://github.com/ashay-thamankar/power_bi_projects).
+
+Happy exploring! 🍏🌍
