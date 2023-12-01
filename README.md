@@ -10,7 +10,7 @@ Welcome to my Power BI projects showcase. Explore a variety of reports and data 
 ## Apple NetZero Target 🍏🌍
 
 - **Description**: Explore Apple's journey towards achieving a net-zero carbon footprint by 2030 through data visualization of their Environmental Progress Reports.
-- **Project Link**: [Apple NetZero Target](https://github.com/ashay-thamankar/power_bi_projects/tree/main/Adeventure_company_report#adventureworks-power-bi-dashboard-project-)
+- **Project Link**: [Apple NetZero Target](https://github.com/ashay-thamankar/power_bi_projects/tree/main/Apple%20Net%20Zero%20Target#apple-netzero-target---power-bi-project-)
 
 ## HR Analytics Report 🤓
 
